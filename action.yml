@@ -2,7 +2,7 @@
 name: 'License Check'
 description: 'GitHub action to lint your python code with bandit'
 branding:
-  icon: 'shield'
+  icon: 'check-square'
   color: 'blue'
 inputs:
   path:
