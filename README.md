@@ -1,4 +1,4 @@
-# license-check
+# py-license-check
 GitHub Action for [pip-licenses](https://github.com/raimon49/pip-licenses) python license scraper 
 
 ## Inputs
